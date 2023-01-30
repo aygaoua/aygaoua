@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [azgaoua](https://profile.intra.42.fr/users/azgaoua)
 
-- 📝 I regularly write articles on [File descreptor](File descreptor)
-
 - 💬 Ask me about **C things**
 
 - 📫 How to reach me **zgaoua72@gmail.com**
 
-- ⚡ Fun fact **Im funny "VIVA KHAWA"**
+- ⚡ Fun fact Im funny **"VIVA KHAWA"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
