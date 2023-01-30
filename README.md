@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aygaoua" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aymane zgaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane zgaoua" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aygaoua" height="30" width="40" /></a>
-<a href="https://fb.com/aymane zgaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane zgaoua" height="30" width="40" /></a>
+<a href="https://twitter.com/AymaneZgaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aygaoua" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aymane-zgaoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane zgaoua" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21111551/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aygaoua" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AymaneZgaoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane zgaoua" height="30" width="40" /></a>
 <a href="https://instagram.com/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aygaoua" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aygaoua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKm29J37zeWkOk9s1nyJkDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aygaoua" height="30" width="40" /></a>
 <a href="https://discord.gg/aygaoua#2454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aygaoua#2454" height="30" width="40" /></a>
 </p>
 
