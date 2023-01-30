@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **all things about C language**
 
-- 👨‍💻 All of my projects are available at [https://profile.intra.42.fr/users/azgaoua](https://profile.intra.42.fr/users/azgaoua)
+- 👨‍💻 All of my projects are available at [azgaoua](https://profile.intra.42.fr/users/azgaoua)
 
 - 📝 I regularly write articles on [File descreptor](File descreptor)
 
