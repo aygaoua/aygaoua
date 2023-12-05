@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYGAOUA</h1>
 <h3 align="center">A programmer from MOROCCO</h3>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldiytxt100250fk1ty2mhwph/stats?cursusId=21&coalitionId=76" alt="azgaoua's 42 stats" /></a>
+[![<azgaoua>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
