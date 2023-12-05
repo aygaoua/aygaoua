@@ -3,8 +3,6 @@
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="400" src="https://badge.mediaplus.ma/black/azgaoua?1337Badge=off" alt="azgaoua's 42 stats" /></a>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <a href="https://twitter.com/AymaneZgaoua" target="blank"><img src="https://img.shields.io/twitter/follow/aygaoua?logo=twitter&style=for-the-badge" alt="aygaoua" /></a> </p>
 
 - 🔭 I’m currently studying at [1337LEET](42cursus)
