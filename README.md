@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying at [1337LEET](42cursus)
 
-- 🌱 I’m currently learning **all things about C language**
+- 🌱 I’m currently learning **all things about C anc C++ language and problem solving skills**
 
 - 👨‍💻 All of my projects are available at [azgaoua](https://profile.intra.42.fr/users/azgaoua)
 
-- 💬 Ask me about **C things**
+- 💬 Ask me about **C and C++ things**
 
 - 📫 How to reach me **zgaoua72@gmail.com**
 
