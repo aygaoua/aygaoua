@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/AymaneZgaoua" target="blank"><img src="https://img.shields.io/twitter/follow/aygaoua?logo=twitter&style=for-the-badge" alt="aygaoua" /></a> </p>
 
-- 🔭 I’m currently studying at [1337LEET](42cursus)
+- 🔭 I’m currently studying at [1337LEET](1337.ma)
 
 - 🌱 I’m currently learning **all things about C anc C++ language and problem solving skills**
 
