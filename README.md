@@ -1,32 +1,41 @@
-<h1 align="center">Hi 👋, I'm AYGAOUA</h1>
-<h3 align="center">A programmer from MOROCCO</h3>
+<h1 align="center">Hi 👋, I'm Aymane Zgaoua (AYGAOUA)</h1>
+<h3 align="center">Full-Stack & C++ Developer from Tangier, Morocco 🇲🇦</h3>
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="400" src="https://badge.mediaplus.ma/black/azgaoua?1337Badge=off" alt="azgaoua's 42 stats" /></a>
 
-<p align="left"> <a href="https://twitter.com/AymaneZgaoua" target="blank"><img src="https://img.shields.io/twitter/follow/aygaoua?logo=twitter&style=for-the-badge" alt="aygaoua" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/aymane-zgaoua/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aymane-zgaoua" /></a>
+  <a href="https://twitter.com/AymaneZgaoua" target="blank"><img src="https://img.shields.io/twitter/follow/aygaoua?logo=twitter&style=for-the-badge" alt="aygaoua" /></a> 
+</p>
 
-- 🔭 I’m currently studying at [1337LEET](1337.ma)
+- 🔭 I’m currently seeking a **CDI Full-Stack Developer** role.
+- 🚀 Recently achieved **Legend Level** on CodinGame AI Certification.
+- 🎓 Software Engineering student at **1337 Coding School** & SMI at **UAE**.
+- 💻 Specialized in **NestJS, Next.js, TypeScript, and C++**.
+- 🌱 Currently exploring **Blockchain technology and Cybersecurity**.
+- 👨‍💻 Check out my 42 Network projects at [azgaoua](https://profile.intra.42.fr/users/azgaoua).
+- 📫 Reach me at: **zgaoua72@gmail.com** or **+212 770 013 513**.
+- ⚡ Fun fact: I'm a proud **Ittihad Tanger (IRT)** supporter. Viva Khawa! 💙🤍
 
-- 🌱 I’m currently learning **all things about C anc C++ language and problem solving skills**
-
-- 👨‍💻 All of my projects are available at [azgaoua](https://profile.intra.42.fr/users/azgaoua)
-
-- 💬 Ask me about **C and C++ things**
-
-- 📫 How to reach me **zgaoua72@gmail.com**
-
-- ⚡ Fun fact Im funny **"VIVA KHAWA"**
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="nestjs" height="30"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="nodejs" height="30"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="postgres" height="30"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="nextjs" height="30"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="typescript" height="30"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow" alt="javascript" height="30"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="c" height="30"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="cpp" height="30"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="linux" height="30"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="docker" height="30"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AymaneZgaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aygaoua" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aymane-zgaoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane zgaoua" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21111551/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aygaoua" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AymaneZgaoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane zgaoua" height="30" width="40" /></a>
 <a href="https://instagram.com/aygaoua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aygaoua" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCKm29J37zeWkOk9s1nyJkDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aygaoua" height="30" width="40" /></a>
-<a href="https://discord.gg/TmaAqZac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aygaoua#2454" height="30" width="40" /></a>
+<a href="https://discord.gg/TmaAqZac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aygaoua" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
