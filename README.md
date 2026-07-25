@@ -1,4 +1,5 @@
-### `guest@aygaoua:~$ npx aygaoua-readme-generator --user azgaoua`
+`~ ------------------------------------------------------------------- at 20:17:40`<br>
+`> npx aygaoua-readme-generator --user azgaoua`
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/azgaoua?1337Badge=off" alt="azgaoua's 42 stats" /></a>
 
@@ -7,7 +8,10 @@
   <a href="https://twitter.com/AymaneZgaoua"><img src="https://img.shields.io/twitter/follow/aygaoua?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
 </p>
 
-### `guest@aygaoua:~$ cat profile.json`
+<br>
+
+`~ ------------------------------------------------------------------- at 20:17:42`<br>
+`> cat profile.json`
 
 ```json
 {
@@ -27,3 +31,17 @@
   "contact": "zgaoua72@gmail.com",
   "fun_fact": "I'm a proud Ittihad Tanger (IRT) supporter. Viva Khawa! 💙🤍"
 }
+~ ------------------------------------------------------------------- at 20:17:46
+
+
+> ls -l ./tech-stack/
+
+~ ------------------------------------------------------------------- at 20:17:51
+
+
+> ping -c 4 ./social_networks
+
+~ ------------------------------------------------------------------- at 20:17:55
+
+
+> _
