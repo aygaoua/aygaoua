@@ -14,7 +14,7 @@
 - 💻 Specialized in **NestJS, Next.js, TypeScript, and C++**.
 - 🌱 Currently exploring **Blockchain technology and Cybersecurity**.
 - 👨‍💻 Check out my 42 Network projects at [azgaoua](https://profile.intra.42.fr/users/azgaoua).
-- 📫 Reach me at: **zgaoua72@gmail.com** or **+212 770 013 513**.
+- 📫 Reach me at: **zgaoua72@gmail.com** .
 - ⚡ Fun fact: I'm a proud **Ittihad Tanger (IRT)** supporter. Viva Khawa! 💙🤍
 
 <h3 align="left">Tech Stack:</h3>
