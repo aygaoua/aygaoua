@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymane Zgaoua (AYGAOUA)</h1>
 <h3 align="center">Full-Stack & C++ Developer from Tangier, Morocco 🇲🇦</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img align="right" width="400" src="https://badge.mediaplus.ma/black/azgaoua?1337Badge=off" alt="azgaoua's 42 stats" /></a>
+<a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/131230.svg?t=sOlop0TJIkIiSriR0C7cjF0psNPwmT8q-oFm5nwKHaE&logo=0&crt=1" alt="Elite 1337 rank" width="840"></a>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/aymane-zgaoua/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aymane-zgaoua" /></a>
